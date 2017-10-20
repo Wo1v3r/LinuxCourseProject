@@ -5,7 +5,6 @@ Packaged and supported by AutoTools to support cross compilation.
 
 Includes two distributions of the VueJS application: Localhost based http requests and Remote http requests to a DigitalOcean droplet (POC of using different machines instead of host)
 
-Working example [here](http://146.185.177.17/index.html) , you can also attempt HTTP Requests on your own 
 
 To use on your own machine, carefully follow the following steps:
 
